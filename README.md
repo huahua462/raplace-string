@@ -1,4 +1,4 @@
-# raplace-string
+# Python 实现类似sed命令的字符串替换小程序
 
 环境
 
